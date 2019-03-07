@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/2.png</ImageUrl>
+    <NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Chips</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/3jpg.jpg</ImageUrl>
+    <NavigateUrl>http://www.babybouquets.com.au</NavigateUrl>
+    <AlternateText>Order roses and flowers</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>mac</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/4.jpg</ImageUrl>
+    <NavigateUrl>http://www.flowers2moscow.com</NavigateUrl>
+    <AlternateText>Send flowers to Russia</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ice cream</Keyword>
+  </Ad>
+</Advertisements>
